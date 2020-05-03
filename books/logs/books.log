@@ -1,0 +1,6 @@
+[2020-03-19T01:15:22.336416+01:00] books_logger.NOTICE: New book has been added ["book_title: Abigail and the Snowman"] []
+[2020-03-19T01:15:50.196878+01:00] books_logger.INFO: book has been updated ["book_title: The Color Of Earth"] []
+[2020-03-19T01:26:34.504096+01:00] books_logger.NOTICE: New book has been added ["book_title: Hilda"] []
+[2020-03-19T01:26:38.804271+01:00] books_logger.WARNING: Book has been removed ["book_title: Hilda","current_logged_in_user: Bob"] []
+[2020-03-19T02:45:46.749568+01:00] books_logger.NOTICE: New book has been added ["book_title: Sardine in Outer Space"] []
+[2020-03-19T02:46:05.395044+01:00] books_logger.INFO: Book has been updated ["book_title: Nimona"] []
